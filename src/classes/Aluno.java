@@ -2,7 +2,7 @@ package classes;
 
 public class Aluno {
 
-    private int matricula;
+    private Integer matricula;
     private String nome;
 
     public Aluno(){}
